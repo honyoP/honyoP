@@ -3,8 +3,8 @@
 ### Software Developer & Digital Craftsman
 I am a full-stack developer based in the Czech Republic, specializing in building robust systems from the ground up.
 
-- 🔭 **Currently working on:** A scalable language assessment platform for educational clients (Freelance).
-- 🔧 **Daily Drivers:** C# (.NET), Python, React, and GNU Emacs.
+- 🔭 **Currently working on:** Building and maintaining a collection of personal open source tools.
+- 🔧 **Daily Drivers:** C# (.NET), Python, React, and NeoVim.
 - 🐧 **Environment:** I live in the terminal. Linux enthusiast, I use Arch BTW....
 - 🤖 **Interests:** Robotics, Digital Art, and Open Source.
 
@@ -26,7 +26,7 @@ I am a full-stack developer based in the Czech Republic, specializing in buildin
 
 **Tools & OS**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Emacs](https://img.shields.io/badge/GNU%20Emacs-7F5AB6?style=for-the-badge&logo=gnuemacs&logoColor=white)
+![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
